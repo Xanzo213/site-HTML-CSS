@@ -70,6 +70,11 @@ header, footer{
 	border-top: 1px solid #00008B;
 	color: #008080;
 }
+/*Оформление постов практических работ*/
+.post-info{
+    color: grey;
+}
+
 /* Оформление футера*/
 .footer-columns{
     display: flex;
@@ -82,3 +87,32 @@ header, footer{
 .menu-footer li a, .footer-column p a{
     color: white;
 }
+
+h4{color:blue;}
+.text{
+    font-style: italic
+}
+
+one.{color=blue}
+
+.card{width: 50px;
+            height: 70px;
+            border: 1px solid #000;
+            line-height:70px;
+            text-align: center;
+            font-size: 24px;
+            margin: 10px;
+            display: inline-block;
+            color: red;
+            background-color: #808080;
+}
+.card2{width: 50px;
+            height: 70px;
+            border: 1px solid #000;
+            line-height:70px;
+            text-align: center;
+            font-size: 24px;
+            margin: 10px;
+            display: inline-block;
+            color: black;
+            background-color: #808080;

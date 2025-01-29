@@ -74,6 +74,13 @@ header, footer{
 .post-info{
     color: grey;
 }
+.post{
+    display:flex;
+    margin: 5px;
+    background:#F8F8FF;
+    border: 2px solid black;
+    padding: 5px;
+}
 
 /* Оформление футера*/
 .footer-columns{

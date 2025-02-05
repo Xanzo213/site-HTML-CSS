@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Liter&display=swap');
+
+body{
+    font-family: ;
+    background-color: #d4d4d4 ;
+    background-color: #f0f0f0;
+    box-shadow: 0 0 16px rgba (0, 0, 0, 0.7)
+}
+#main_about{
+    margin: 4px auto;
+    padding: 20px 150px 60px;
+    box-sizing6: broder-box;
+    border: 2px solid #ddd;
+    font-family: ;
+    width: 1000px;
+}
+.block_about{
+    padding: 30px;
+}
+.block_about img{
+    border-radius: 50%;
+    border: 2px solid #ddd
+}
+.alignleft{
+    float: left;
+    margin-right: 15px;
+}
+alignright{
+    float: right;
+    margin-left: 15px;
+}

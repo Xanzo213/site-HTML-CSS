@@ -1,0 +1,49 @@
+table{}
+
+tr{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    font-size: 14px;
+    padding: 10px 15px;
+    overflow-y: scroll;
+    text-align: center;
+}
+
+td{
+    text-align: center;
+    width: 210px;
+}
+
+th{
+    background: #87CEFA;
+    width: 180px;
+    text-align: center;
+    padding: 10px 15px;
+    font-size; 14px;
+    border-left: 1px solid #bbb;
+    border-right: 1px solid #bbb;
+
+}
+.scroll-table-body{
+    height: 300px
+    overflow-x: auto;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #bbb;
+
+}
+.scroll-table-body td{
+    padding: 10px 15px;
+    font-size: 14px;
+    width: 100px;
+}
+
+.scroll-table table{
+    width: 100%;
+    table-layout: fixed;
+    border: none;
+
+}
+.scroll-table tr:nth-child(even){
+    background: #f3f3f3;
+}

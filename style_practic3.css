@@ -12,4 +12,36 @@
  background-
 */
 
+.practic1 {
+margin: 5px;
+padding: 5px;
+background: #f0f0f0;
+
+}
+.practic1 div{
+    border: 3px solid #fff;
+    background: #DC143C;
+    color: black;
+    margin: 5px;
+    text-align: center;
+    vertical-align: center;
+}
+.div_head{height: 70px;}
+.div_menu{height: 40px;}
+.aside_left{}
+.div_3{
+    display: flex;
+    margin: auto;
+    padding: auto;
+}
+.div_3 div{
+    flex: 33%;
+    margin: 5px;
+
+}
+
+
+
+
+
 
